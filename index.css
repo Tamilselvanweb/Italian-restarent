@@ -1,0 +1,360 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+.container-fluid header
+{
+    background-image:linear-gradient(90deg, rgba(34,34,34,0.9999999999999999) 0%, rgba(34,34,34,0.9999999999999999) 38%, rgba(34,34,34,0) 100%),url("img-1.png");
+    width: 100%;
+    height:700px;
+}
+.res-1
+{
+    padding-left:50px;
+}
+.res-3
+{
+    font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
+  padding-left:20px;
+  font-size:90px;
+}
+.res-4
+{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    padding-left:30px;
+    font-size:25px;
+}
+.res-5
+{
+    padding-left:40PX;
+    margin-left:10px;
+    border-radius:20px; 
+    font-size:30px;
+    border:none;
+}
+.res-6 header
+{
+    background-image:url("a38eb8b0-fe7a-4e26-a63b-be30113dd5d7.jpg");
+    width:100%;
+    height:700px;
+    background-size:cover;
+}
+.res-7
+{
+    text-align:center;
+    font-family: "Abril Fatface", serif;
+    font-weight:400;
+    font-style: normal;
+    padding-left:20px;
+    font-size:60px;
+
+}
+.res-8
+{
+    text-align:center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    padding-left:30px;
+    font-size:25px;
+
+}
+.res-9
+{
+    text-align:center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    padding-left:30px;
+    font-size:20px; 
+}
+.container-fluid article
+{
+    background-image:url("img-5.png");
+    width:100%;
+    height:700px;
+
+}
+.res-10
+{
+    margin-top:200px;
+    font-family: "Abril Fatface", serif;
+    font-weight:400;
+    font-style: normal;
+    padding-left:20px;
+    font-size:60px;
+}
+.res-11
+{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    padding-left:30px;
+    font-size:25px;  
+}
+.res-12
+{
+    margin-left:85px;
+    border:none;
+    border-radius:20px;
+}
+.container-fluid aside
+{
+    
+    background-image:url("a38eb8b0-fe7a-4e26-a63b-be30113dd5d7.jpg");
+    width:100%;
+    height:700px;
+    background-size:cover;
+}
+.res-13
+{
+    font-size:70px;
+}
+.res-14
+{
+    font-size:40px;
+}
+aside .res-15
+{
+    border:4px solid white;
+    border-radius:150px;
+    padding:40px;
+    width:250px;
+    height:250px;
+    margin:20px 80px;
+}
+.container-fluid .panner
+{
+    
+    background-image:url("img-6.png");
+    width:100%;
+    height:700px;
+    background-size:cover;
+}
+.container-fluid .content
+{
+    background-image:linear-gradient(90deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.5) 38%),url("img-7.png");
+    width:100%;
+    height:700px;
+    background-size:cover;
+}
+.res-16
+{
+    padding-top:300px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    padding-left:px;
+    font-size:25px; 
+}
+.res-17
+{
+    font-size:40px;
+    font-family: "Abril Fatface", serif;
+    font-weight:400;
+    font-style: normal;
+    padding-left:0px;
+}
+.container-fluid .content-1
+{
+    background-image:url("img-8.png");
+    width:100%;
+    height:700px;
+    background:cover;
+}
+.res-18
+{
+    padding-top:150px;
+    font-size:70px;
+    font-family: "Abril Fatface", serif;
+    font-weight:400;
+    font-style: normal;
+
+}
+.res-19
+{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    padding-left:px;
+    font-size:25px;  
+}
+.res-20
+{
+    width:500px;
+    height:40px;
+    border-radius:20px;
+    padding-left:10px;
+    border:none;
+}
+.container-fluid footer
+{
+    width:100%;
+    height:600px;
+    background-color:#111111 ;
+}
+.res-21
+{
+    padding-top:180px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    padding-left:px;
+    font-size:30px; 
+
+}
+.res-22
+{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    padding-left:px;
+    font-size:18px; 
+}
+footer i
+{
+    color: black;  
+    padding:10px 13px;
+    background-color:white;
+    border-radius:100px;
+    margin:3px;
+    overflow:hidden;
+
+}
+.res-23
+{
+    padding-top:175px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    padding-left:px;
+    font-size:30px;
+}
+.res-24
+{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    padding-left:px;
+    font-size:18px  
+}
+
+
+
+ 
+
+@media (max-width: 576px)
+{
+    .container-fluid header
+    {
+        background-image:linear-gradient(90deg, rgba(34,34,34,0.9999999999999999) 0%, rgba(34,34,34,0.9999999999999999) 38%, rgba(34,34,34,0) 100%),url("img-1.png");
+        width: 100%;
+        height:800px;
+    }     
+    .res-1{
+        padding-left:100px;
+    }
+    .res-2
+    {
+        padding-left:100px;
+    }
+    .res-3
+  {
+    font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
+  padding-left:0px;
+  font-size:50px;
+  }
+  .res-4
+  {
+      font-family: "Montserrat", sans-serif;
+      font-optical-sizing: auto;
+      padding-left:0px;
+      font-size:25px;
+  
+  }
+  .res-7
+{
+    text-align:center;
+    font-family: "Abril Fatface", serif;
+    font-weight:400;
+    font-style: normal;
+    padding-left:20px;
+    font-size:40px;
+
+} 
+.res-6 header
+{
+    background-image:url("a38eb8b0-fe7a-4e26-a63b-be30113dd5d7.jpg");
+    width:100%;
+    height:1400px;
+    background-size:cover;
+}
+.container-fluid article
+{
+    background-image:url("img-5.png");
+    width:100%;
+    height:800px;
+    padding-top:200px;
+
+
+}
+.res-10
+{
+    margin-top:0px;
+    font-family: "Abril Fatface", serif;
+    font-weight:400;
+    font-style: normal;
+    padding-left:20px;
+    font-size:40px;
+}
+.container-fluid aside
+{
+    
+    background-image:url("a38eb8b0-fe7a-4e26-a63b-be30113dd5d7.jpg");
+    width:100%;
+    height:1400px;
+    background-size:cover;
+}
+.container-fluid .panner
+{
+    
+    background-image:url("img-6.png");
+    width:100%;
+    height:700px;
+    padding-top:70px;
+    background-size:cover;
+}
+.res-20
+{
+    width:300px;
+    height:40px;
+    border-radius:20px;
+    padding-left:10px;
+    border:none;
+}
+.res-23
+{
+    padding-top:40px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    padding-left:px;
+    font-size:30px;
+}
+.container-fluid footer
+{
+    width:100%;
+    height:850px;
+    background-color:#111111 ;
+}
+.res-21
+{
+    padding-top:30px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    padding-left:px;
+    font-size:30px; 
+
+}
+
+
+}
